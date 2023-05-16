@@ -31,7 +31,7 @@ Get Docker Machine IP by executing:
 Use this one in the command.
 
 
-## Pushing the container
+## Pushing the docker container
 ` $ docker push $DOCKER_USER_ID/sentiment-analysis-web-app `
 
 
